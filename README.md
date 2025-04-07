@@ -1,4 +1,4 @@
-# lexical-analayzer
+
 # Lexical Analyzer in C++
 
 ## Description
@@ -30,15 +30,3 @@ The program supports the following token types:
 - `LEFT_PAREN`: Left parenthesis (`(`).
 - `RIGHT_PAREN`: Right parenthesis (`)`).
 - `END_OF_FILE`: End of file marker.
-
-## Requirements
-
-- C++ Compiler (e.g., g++)
-- A text editor or IDE to view or modify the code.
-
-## How to Use
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/lexical-analyzer.git
